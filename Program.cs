@@ -10,8 +10,8 @@ namespace AddressBook
 
         static void Main()
         {
-            Address a1 = new Address("danielle", 23, "poop poop", "ardee", "louth", "ireland");
-            Address a2 = new Address("daniel", 423, "poopity poop", "tallaght", "dublin", "ireland");
+            Address a1 = new Address("danielle", 23, "dawsons", "ardee", "louth", "ireland");
+            Address a2 = new Address("daniel", 423, "belgard heights", "tallaght", "dublin", "ireland");
 
             addressBook.Add(a1);
             addressBook.Add(a2);
